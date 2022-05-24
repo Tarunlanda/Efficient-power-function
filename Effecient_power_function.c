@@ -1,4 +1,5 @@
 #include<stdio.h>//returning can be double if power is negative
+/*BT20CSE074_CPL_Assignment_1*/
 #include<math.h>//for using fabs 
 #define FTL_EPSILON 1.1920920E-07F//The least significant positive value of the float //such that 1+FTL_EPSILON=1 approximately
 //Assumtion : The value of the x^y is assumed to be real value and the value of x^y is in the limit of double data type
